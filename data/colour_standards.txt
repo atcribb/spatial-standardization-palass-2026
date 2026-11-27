@@ -1,0 +1,4 @@
+Gradient (blue-orange): c("#002060", "#008083", "#FAAB36", "#F78104", "#FD5901")
+Background light blue: "#E8F1F1"
+Foreground dark orange: "#CE684F"
+Foreground dark purple: "#7B3FA1"
